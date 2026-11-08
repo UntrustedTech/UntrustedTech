@@ -51,6 +51,6 @@ Status      : 🟢 Open to Collaborations
 
 ## 📬 Get In Touch
 
-🌐 **Portfolio:** [untrustedtech.dev](untrustedtech.dev)
+🌐 **Website:** [untrustedtech.dev](https://untrustedtech.dev)
 
 ---
