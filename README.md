@@ -30,6 +30,16 @@ Status      : 🟢 Open to Collaborations
 
 <br clear="right"/>
 
+## 🚀 Featured Project
+
+<a href="https://github.com/UntrustedTech/open-health"><img src="https://raw.githubusercontent.com/UntrustedTech/open-health/main/docs/images/icon.png" align="left" width="72" alt="Open Health icon"/></a>
+
+**[Open Health](https://github.com/UntrustedTech/open-health)**: a private health and fitness tracker for Android. No accounts, ads or servers; your data stays on your phone, encrypted.
+
+[⬇️ Download 1.0.0](https://github.com/UntrustedTech/open-health/releases/latest) · [🗺️ Roadmap](https://github.com/UntrustedTech/open-health/blob/main/docs/ROADMAP.md) · [🌐 Website](https://untrustedtech.dev/health/) · Google Play coming soon
+
+<br clear="left"/>
+
 ## 🛠️ Languages & Tools
 
 <div align="center">
